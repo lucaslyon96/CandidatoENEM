@@ -1,0 +1,7 @@
+Alocacao dos candidatos:
+4 3 3 2 3 3 2 2 3 4 
+Medianas:
+4 1 0 
+total de alocados:
+3 5 2 
+custo = 192

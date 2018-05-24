@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448545102 source:/home/lucas/Documentos/UFRN/linguagem de programacao/projeto/projeto bli /main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1447193507 source:/home/lucas/Documentos/UFRN/linguagem de programacao/projeto/projeto bli /teste_arquivo.cpp
+	<iostream>
+	<fstream>
+
+1447418948 source:/home/lucas/Documentos/UFRN/linguagem de programacao/projeto/projeto bli /main2.cpp
+	<iostream>
+	<fstream>
+
+1448505981 source:/home/lucas/Documentos/UFRN/linguagem de programacao/projeto/projeto bli /soma.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
